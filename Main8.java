@@ -1,4 +1,4 @@
-package M1;
+package S1;
 
 public class Main8 {
     public static void main(String[] args) {
